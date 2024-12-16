@@ -1,4 +1,4 @@
-# DATA_ANALYST_PROJECTS
+# The Paris Olympic 2024 Dashboard
 
 The Paris Olympic 2024 Dashboard provides a comprehensive analysis of the upcoming 
 Olympic Games. It offers insights into athlete participation, country performance, and medal 
